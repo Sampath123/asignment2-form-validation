@@ -1,0 +1,20 @@
+.name-required{
+	visibility:hidden;
+	color:red;
+	fon
+}
+
+.phone-required{
+	visibility:hidden;
+	color:red;
+}
+
+.email-required{
+	visibility:hidden;
+	color:red;
+}
+
+.address-required{
+	visibility:hidden;
+	color:red;
+}
